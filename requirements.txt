@@ -1,0 +1,5 @@
+scapy>=2.5
+# Optional but recommended (much richer scans):
+#   Nmap  -> https://nmap.org/download  (Linux: sudo apt install nmap)
+#   Wireshark -> capture traffic, save as .pcap/.pcapng, analyze with this tool
+# Live sniffing on Windows needs Npcap: https://npcap.com
